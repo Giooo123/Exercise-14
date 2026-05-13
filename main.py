@@ -44,4 +44,4 @@ w2 = [
     (0, 2, 1),  # 0 и 2 разные
 ]
 
-print(chk(z, w2))  # False
+print(chk(z2, w2))  # False
